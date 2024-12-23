@@ -1,0 +1,80 @@
+{
+    "name": "Sanket Magodia",
+    "phone": "+1 (607) 296-9098",
+    "linkedin": "https://www.linkedin.com/in/sanket-magodia/",
+    "Github": "https://github.com/SanketMagodia",
+    "portfolio": "https://SanketMagodia.info",
+    "address": "7 Eaton Pl, Binghamton, NY 13905",
+    "workExperience": [
+        {
+            "companyName": "Binghamton University",
+            "city": "Binghamton, NY",
+            "position": "Machine Learning Research Assistant",
+            "From": "May 2023",
+            "To":"Present",
+            "details": [
+                "● Engineered financial advisory platform using Nous Hermes 2 LLM with FAISS vector database and RAG pipeline, implementing FastAPI microservices and S.T.T for 30% faster query processing.",
+                "● Enhanced DCGAN model performance for complex data imputation scenarios, implementing custom loss functions and architecture modifications resulting in 13% accuracy improvement.",
+                "● Architected deep convolutional encoder-decoder framework for inverse design of silicon photonic components, achieving 12% improvement in component generation accuracy.",
+                "● Pioneered scalable research platform integrating GPT-4 and AWS Bedrock for semantic paper retrieval, implementing automated testing pipelines and RAG-based knowledge extraction system."
+            ]
+        },
+        {
+            "companyName": "WonderBiz Technologies Private Limited",
+            "city": "Mumbai, India",
+            "position": "Software Engineer",
+            "From": "Nov 2021",
+            "To":"May 2022",
+            "details": [
+                "● Orchestrated end-to-end React/Django app with OCR and custom spaCy NER model for extracting factory specifications from RFQs, integrating Bloom for automated data processing (95% accuracy).",
+                "● Streamlined microservices using FAST APIs and SQL Server for data management, implementing AWS EC2 deployment with real-time document processing pipeline (75% reduction in manual effort).",
+                "● Designed factory cost prediction system using regression and PySpark, processing historical RFQ data through custom API integrations to generate automated PLC quotation ranges (90% accuracy).",
+                "● Created ML pipeline for casting defect detection using YOLOv5 on AWS SageMaker, building React.js dashboard and AWS IoT integration for real-time monitoring (78% accuracy).",
+                "● Led Agile team of 10 in developing computer vision algorithms for P&ID diagram extraction, implementing Mask R-CNN to improve extraction accuracy by 15%."
+            ]
+        },
+        {
+            "companyName": "Freeloc IT Solutions",
+            "city": "Mumbai, India",
+            "position": "Software Engineer",
+            "From": "Sep 2020",
+            "To":"Nov 2021",
+            "details": [
+                "● Programmed automated ETL pipelines using PySpark and Python with SQL Server integration, implementing Selenium web scraping to process 10,000+ daily records with 80% efficiency gain.",
+                "● Established data warehouse architecture using SQL Server and MySQL, building automated data collection systems with Python and Selenium for 10+ concurrent data streams.",
+                "● Implemented Decision Tree and K-means Clustering algorithms for customer segmentation analysis of 5,000+ profiles, creating Power BI dashboards that drove 15% CTR improvement.",
+                "● Configured scalable PySpark data processing pipelines with custom SQL integrations, achieving 25% reduction in processing time and $10,000+ cost optimization."
+            ]
+        },
+        {
+            "companyName": "Talent Excel",
+            "city": "Mumbai, India",
+            "position": "Software Developer Intern",
+            "From": "Jul 2019 – Dec 2019",
+            "details": [
+                "● Directed Flutter-based indoor navigation system implementing A* pathfinding algorithm and custom geolocation services, reducing average path discovery time by 40%.",
+                "● Deployed backend infrastructure using Python and MongoDB, integrating RESTful APIs for real-time location updates and path optimization with GCP deployment.",
+                "● Architected CI/CD pipelines for automated testing and deployment, implementing containerization with Docker and establishing automated build processes on GCP."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "State University of New York at Binghamton",
+            "degree": "Master of Science in Computer Science, Artificial Intelligence",
+            "graduationDate": "Aug 2022 - Dec 2024"
+        },
+        {
+            "institution": "University of Mumbai",
+            "degree": "Bachelor of Engineering in Computer Engineering",
+            "graduationDate": "Aug 2017 - Jun 2021"
+        }
+    ],
+    "skills": [
+        "Python", "JavaScript", "C/C++", "SQL", "HTML/CSS", "PyTorch", "TensorFlow", "Scikit-Learn",
+         "NLTK", "OpenCV", "SpaCy", "HuggingFace", "LangChain", "OpenAI/ChatGPT", "FAISS", "MLflow", 
+         "PySpark", "Matplotlib", "Seaborn", "React", "Express", "Django", "Flask", "FastAPI", "Flutter",
+         "AWS SageMaker", "AWS EC2", "AWS Lambda", "AWS Bedrock", "AWS RDS", "Docker", "Git", "Linux", 
+         "Power BI", "MongoDB"
+    ]
+}
