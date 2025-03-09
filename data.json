@@ -1,6 +1,7 @@
 {
     "name": "Sanket Magodia",
-    "phone": "+1 (607) 296-9098",
+    "phone": "+16072969098",
+    "email": "magodiasanket@gmail.com"
     "linkedin": "https://www.linkedin.com/in/sanket-magodia/",
     "Github": "https://github.com/SanketMagodia",
     "portfolio": "https://SanketMagodia.info",
@@ -13,11 +14,9 @@
             "From": "May 2023",
             "To":"Present",
             "details": [
-                "● Engineered financial advisory platform using Nous Hermes 2 LLM with FAISS vector database and RAG pipeline, implementing FastAPI microservices and S.T.T for 30% faster query processing.",
-                "● Enhanced DCGAN model performance for complex data imputation scenarios, implementing custom loss functions and architecture modifications resulting in 13% accuracy improvement.",
-                "● Architected deep convolutional encoder-decoder framework for inverse design of silicon photonic components, achieving 12% improvement in component generation accuracy.",
-                "● Pioneered scalable research platform integrating GPT-4 and AWS Bedrock for semantic paper retrieval, implementing automated testing pipelines and RAG-based knowledge extraction system."
-            ]
+                 "• Enhanced Generative Adverserial Imputatuional Network(G.A.I.N) framework by implementing DCGAN architecture for missing data imputation, improving upon traditional GAN approach with 13% higher accuracy in data reconstruction.",
+              "• Innovated silicon photonic component design by replacing VGGNet/ResNet with data-efficient image transformers (DeiT),achieving 12% better component generation through improved feature extraction.",
+                "• Built university-wide research platform using GPT-4 and AWS Bedrock APIs, enabling semantic paper search and streamlined knowledge extraction for internal research data accessibility." ]
         },
         {
             "companyName": "WonderBiz Technologies Private Limited",
@@ -26,12 +25,10 @@
             "From": "Nov 2021",
             "To":"May 2022",
             "details": [
-                "● Orchestrated end-to-end React/Django app with OCR and custom spaCy NER model for extracting factory specifications from RFQs, integrating Bloom for automated data processing (95% accuracy).",
-                "● Streamlined microservices using FAST APIs and SQL Server for data management, implementing AWS EC2 deployment with real-time document processing pipeline (75% reduction in manual effort).",
-                "● Designed factory cost prediction system using regression and PySpark, processing historical RFQ data through custom API integrations to generate automated PLC quotation ranges (90% accuracy).",
-                "● Created ML pipeline for casting defect detection using YOLOv5 on AWS SageMaker, building React.js dashboard and AWS IoT integration for real-time monitoring (78% accuracy).",
-                "● Led Agile team of 10 in developing computer vision algorithms for P&ID diagram extraction, implementing Mask R-CNN to improve extraction accuracy by 15%."
-            ]
+               "• Architected end-to-end RFQ processing pipeline, integrating custom spaCy NER and ensemble regression models(AdaBoost and Random Forest) with containerized deployment using Kubernetes, achieving 95% accuracy in PLC price predictions.",
+"• Engineered full-stack solution for RFQ price prediction, utilizing a React frontend and FastAPI microservices with Jenkins CI/CD pipeline on AWS EC2, reducing manual quotation processing time from 7 days to 4 hours.",
+"• Prototyped ML pipeline POC for casting defect detection using YOLOv5 on AWS SageMaker in a 2-member team, demonstrating proof-of-concept with React (TypeScript) dashboard and IoT integration achieving 78% detection accuracy.",
+"• Optimized existing P&ID extraction pipeline by fine-tuning Mask R-CNN model, achieving 6% accuracy improvement over Detectron 2 baseline."  ]
         },
         {
             "companyName": "Freeloc IT Solutions",
