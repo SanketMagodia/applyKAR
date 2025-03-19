@@ -1,6 +1,7 @@
 {
     "name": "Sanket Magodia",
     "phone": "+16072969098",
+    "email": "magodiasanket@gmail.com",
     "linkedin": "https://www.linkedin.com/in/sanket-magodia/",
     "Github": "https://github.com/SanketMagodia",
     "portfolio": "https://SanketMagodia.info",
@@ -72,5 +73,13 @@
          "PySpark", "Matplotlib", "Seaborn", "React", "Express", "Django", "Flask", "FastAPI", "Flutter",
          "AWS SageMaker", "AWS EC2", "AWS Lambda", "AWS Bedrock", "AWS RDS", "Docker", "Git", "Linux", 
          "Power BI", "MongoDB"
+    ],
+    "questions":[
+        {"question":"What is your greatest strength?",
+        "answer":"My greatest strength is my ability to adapt and learn quickly. I am always eager to take on new challenges and I thrive in fast-paced environments. I am a strong problem solver and I am able to think creatively to find innovative solutions to complex problems."}
+        ,{"question":"What is your greatest strength?",
+        "answer":"My greatest strength is my ability to adapt and learn quickly. I am always eager to take on new challenges and I thrive in fast-paced environments. I am a strong problem solver and I am able to think creatively to find innovative solutions to complex problems."}
+        
+        
     ]
 }
