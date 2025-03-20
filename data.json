@@ -81,7 +81,8 @@
         "answer":"I have previously worked in many startups including my own. Now that I am in US I am looking for something similar which we can grow together. Other than that I have worked in various tech stacks to provide solutions in computer vision and NLP, from Image Generation to Regression,  along with my current research in Vision Transformers, aligns well with the kind of expertise you’re seeking. "}
         ,{"question":"Describe something impressive you've built or done so far in your life. Please answer in your own words?",
         "answer":"Currently I am working on my hobby project - A Book reading platform (ReadQuest.site). It serves AI summarized books with expert LLM x RAG based AI bot to help you with your reading journey. Sites MOAT is its UI and UX which most of the sites lack especially in reading domain. Features include - Stable diffusion built summary videos, audio reader, click to define, bookmarks, Quotes and epub reader. I also maintain a hashnode doc to log what I added and how I did at https://readquest.hashnode.space/default-guide/first-portotype."}
-        
+        {"question":"bit about myself and what I am looking for in my next role?",
+        "answer":"I’m a Machine Learning Engineer with over three years of experience building AI-driven solutions and integrating them into full-stack applications. I specialize in NLP, computer vision, and MLOps, along with web technologies like React, FastAPI, and MongoDB. In my next role, I’m looking for opportunities where I can work on both AI and its seamless integration into scalable products. I enjoy building end-to-end solutions that combine intelligence with usability, and I’m excited to be part of a team that values innovation and impact."}
         
     ]
 }
