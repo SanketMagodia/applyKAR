@@ -2,10 +2,12 @@
     "name": "Sanket Magodia",
     "phone": "+16072969098",
     "email": "magodiasanket@gmail.com",
+    "password": "Sank4444####",
     "linkedin": "https://www.linkedin.com/in/sanket-magodia/",
     "Github": "https://github.com/SanketMagodia",
-    "portfolio": "https://SanketMagodia.info",
-    "address": "7 Eaton Pl, Binghamton, NY 13905",
+    "portfolio": "https://SanketMagodia.site",
+    "address": "7 Eaton Pl",
+    
     "workExperience": [
         {
             "companyName": "Binghamton University",
@@ -75,10 +77,10 @@
          "Power BI", "MongoDB"
     ],
     "questions":[
-        {"question":"What is your greatest strength?",
-        "answer":"My greatest strength is my ability to adapt and learn quickly. I am always eager to take on new challenges and I thrive in fast-paced environments. I am a strong problem solver and I am able to think creatively to find innovative solutions to complex problems."}
-        ,{"question":"What is your greatest strength?",
-        "answer":"My greatest strength is my ability to adapt and learn quickly. I am always eager to take on new challenges and I thrive in fast-paced environments. I am a strong problem solver and I am able to think creatively to find innovative solutions to complex problems."}
+        {"question":"Why do you want to work at Ivo? Please answer in your own words?",
+        "answer":"I have previously worked in many startups including my own. Now that I am in US I am looking for something similar which we can grow together. Other than that I have worked in various tech stacks to provide solutions in computer vision and NLP, from Image Generation to Regression,  along with my current research in Vision Transformers, aligns well with the kind of expertise you’re seeking. "}
+        ,{"question":"Describe something impressive you've built or done so far in your life. Please answer in your own words?",
+        "answer":"Currently I am working on my hobby project - A Book reading platform (ReadQuest.site). It serves AI summarized books with expert LLM x RAG based AI bot to help you with your reading journey. Sites MOAT is its UI and UX which most of the sites lack especially in reading domain. Features include - Stable diffusion built summary videos, audio reader, click to define, bookmarks, Quotes and epub reader. I also maintain a hashnode doc to log what I added and how I did at https://readquest.hashnode.space/default-guide/first-portotype."}
         
         
     ]
